@@ -5,7 +5,7 @@
     "Version": "1.0.0",
 
     "Author": "JWolf",
-    "Website": "https://github.com/janxious/MechResizer",
+    "Website": "https://github.com/wmtorode/JW-SaveEditLogger",
 
     "DLL": "JW-SaveEditLogger.dll",
     "DLLEntryPoint": "JW_SaveEditLogger.SaveEditLogger.Init",
